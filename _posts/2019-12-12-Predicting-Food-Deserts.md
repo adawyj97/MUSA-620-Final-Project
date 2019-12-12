@@ -1,11 +1,11 @@
 ---
-title: "Example: Embedding Altair & Hvplot Charts"
-date: 2019-04-13
+title: "Predicting Food Deserts in Queens and Brooklyn, New York"
+date: 2019-12-12
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
 excerpt: "Embedding interactive charts on static pages using Jekyll."
 altair-loader:
-  altair-chart-1: "charts/measlesAltair.json"
+  altair-chart-1: "charts/wordfrequency.json"
 hv-loader:
   hv-chart-1: "charts/measlesHvplot.html"
 toc: true
