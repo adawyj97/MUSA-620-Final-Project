@@ -105,7 +105,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Xintian Li, Yujing Wu, Hanyong Xu"
+  name: "Xintian Li\nYujing Wu\nHanyong Xu"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "MUSA candidates '20"
   location: "Philadelphia"
