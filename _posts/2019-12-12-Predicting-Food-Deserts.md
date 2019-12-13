@@ -17,8 +17,6 @@ This post will show examples of embedding interactive charts produced using [Alt
 
 ## Tweet Sentiment Analysis
 
-Below is a chart of the incidence of measles since 1928 for the 50 US states.
-
 <div id="altair-chart-1"></div>
 
 <div id="altair-chart-2"></div>
@@ -30,9 +28,11 @@ import altair as alt
 alt.renderers.enable('notebook')
 ```
 
-## Holoviews Example
+## Predicting Food Deserts 
 
-Lastly, the measles incidence produced using the Holoviews package:
+### Demographic Characteristics 
+
+### Network Analysis
 
 <div id="hv-chart-1"></div>
 
