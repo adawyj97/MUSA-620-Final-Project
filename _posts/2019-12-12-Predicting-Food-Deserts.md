@@ -6,7 +6,7 @@ tags: [dataviz, altair, hvplot, holoviews]
 excerpt: "Embedding interactive charts on static pages using Jekyll."
 altair-loader:
   altair-chart-1: "charts/wordfrequency.json"
-  altair-chart-2: "charts/sentiment.json"
+  altair-chart-2: "charts/sentiment.html"
 hv-loader:
   hv-chart-1: "charts/measlesHvplot.html"
 toc: true
