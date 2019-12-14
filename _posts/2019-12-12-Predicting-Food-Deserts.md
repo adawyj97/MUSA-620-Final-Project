@@ -8,7 +8,7 @@ altair-loader:
   altair-chart-1: "charts/wordfrequency.json"
   altair-chart-2: "charts/selectionhistogram.json"
 hv-loader:
-  hv-chart-1: "charts/measlesHvplot.html"
+  hv-chart-1: "charts/fast_food1.html"
 toc: true
 toc_sticky: true
 ---
